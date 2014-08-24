@@ -1,0 +1,12 @@
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework\obj\Any Cpu\Release\ResolveAssemblyReference.cache
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework\obj\Any Cpu\Release\MetroFramework.Localization.de.MetroToggle.xml
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework\obj\Any Cpu\Release\MetroFramework.Localization.en.MetroToggle.xml
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework\obj\Any Cpu\Release\MetroFramework.MetroMessageBoxControl.resources
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework\obj\Any Cpu\Release\MetroFramework.Properties.Resources.resources
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework\obj\Any Cpu\Release\MetroFramework.csproj.GenerateResource.Cache
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework\obj\Any Cpu\Release\ResolveAssemblyReference.cache
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework\obj\Any Cpu\Release\MetroFramework.Localization.de.MetroToggle.xml
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework\obj\Any Cpu\Release\MetroFramework.Localization.en.MetroToggle.xml
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework\obj\Any Cpu\Release\MetroFramework.MetroMessageBoxControl.resources
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework\obj\Any Cpu\Release\MetroFramework.Properties.Resources.resources
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework\obj\Any Cpu\Release\MetroFramework.csproj.GenerateResource.Cache

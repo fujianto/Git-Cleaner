@@ -1,0 +1,21 @@
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\Zucharest\Documents\Visual Studio 2012\Projects\GitCleaner\GitCleaner\GitCleaner\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\Zucharest\Documents\Visual Studio 2012\Projects\GitCleaner\GitCleaner\GitCleaner\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\Zucharest\Documents\Visual Studio 2012\Projects\GitCleaner\GitCleaner\GitCleaner\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\Zucharest\Documents\Visual Studio 2012\Projects\GitCleaner\GitCleaner\GitCleaner\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\Zucharest\Documents\Visual Studio 2012\Projects\GitCleaner\GitCleaner\GitCleaner\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\Zucharest\Documents\Visual Studio 2012\Projects\GitCleaner\GitCleaner\GitCleaner\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\Zucharest\Documents\Visual Studio 2012\Projects\GitCleaner\GitCleaner\GitCleaner\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb

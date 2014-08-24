@@ -1,0 +1,24 @@
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework\bin\Debug\MetroFramework.dll
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework\bin\Debug\MetroFramework.pdb
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework\obj\Debug\MetroFramework.csprojResolveAssemblyReference.cache
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework\obj\Debug\MetroFramework.MetroMessageBoxControl.resources
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework\obj\Debug\MetroFramework.dll
+C:\Users\Zucharest\Desktop\winforms-modernui-master\MetroFramework\obj\Debug\MetroFramework.pdb
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework\obj\Debug\MetroFramework.csprojResolveAssemblyReference.cache
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework\obj\Debug\MetroFramework.MetroMessageBoxControl.resources
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework\obj\Debug\MetroFramework.dll
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework\bin\Debug\MetroFramework.dll
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework\bin\Debug\MetroFramework.pdb
+C:\Users\Zucharest\Desktop\BukuKOE\BukuKOE\MetroFramework\obj\Debug\MetroFramework.pdb
+C:\Users\Zucharest\Documents\Visual Studio 2012\Projects\GitCleaner\GitCleaner\GitCleaner\MetroFramework\bin\Debug\MetroFramework.dll
+C:\Users\Zucharest\Documents\Visual Studio 2012\Projects\GitCleaner\GitCleaner\GitCleaner\MetroFramework\bin\Debug\MetroFramework.pdb
+C:\Users\Zucharest\Documents\Visual Studio 2012\Projects\GitCleaner\GitCleaner\GitCleaner\MetroFramework\obj\Debug\MetroFramework.csprojResolveAssemblyReference.cache
+C:\Users\Zucharest\Documents\Visual Studio 2012\Projects\GitCleaner\GitCleaner\GitCleaner\MetroFramework\obj\Debug\MetroFramework.MetroMessageBoxControl.resources
+C:\Users\Zucharest\Documents\Visual Studio 2012\Projects\GitCleaner\GitCleaner\GitCleaner\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+C:\Users\Zucharest\Documents\Visual Studio 2012\Projects\GitCleaner\GitCleaner\GitCleaner\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+C:\Users\Zucharest\Documents\Visual Studio 2012\Projects\GitCleaner\GitCleaner\GitCleaner\MetroFramework\obj\Debug\MetroFramework.dll
+C:\Users\Zucharest\Documents\Visual Studio 2012\Projects\GitCleaner\GitCleaner\GitCleaner\MetroFramework\obj\Debug\MetroFramework.pdb
